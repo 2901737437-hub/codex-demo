@@ -1,0 +1,45 @@
+{
+  "tool": "qa_pptx",
+  "status": "passed-with-warnings",
+  "summary": {
+    "error": 0,
+    "warning": 2,
+    "info": 0
+  },
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "pptx.external_relationship",
+      "message": "External relationship target: https://doi.org/10.1093/jcmc/zmag008",
+      "path": "ppt/slides/_rels/slide10.xml.rels"
+    },
+    {
+      "severity": "warning",
+      "code": "pptx.external_relationship",
+      "message": "External relationship target: https://github.com/2901737437-hub/codex-demo/raw/refs/heads/presentation/political-discussion/deliverables/political-discussion/zmag008.pdf",
+      "path": "ppt/slides/_rels/slide10.xml.rels"
+    }
+  ],
+  "details": {
+    "pptx": "/workspace/outputs/political-discussion-network/political_discussion_network_update.pptx",
+    "sha256": "2ed2aa6824b81fbd0d3ebf786a592907a5364864210ef828c68ef536d623785a",
+    "slide_count": 10,
+    "canvas_inches": {
+      "width": 13.3333,
+      "height": 7.5
+    },
+    "fonts": [
+      "Source Han Sans CN Light",
+      "Source Han Serif CN",
+      "Times New Roman"
+    ],
+    "media_count": 11,
+    "security_parts": [],
+    "qa_profile": "group-meeting",
+    "typography": {
+      "strict_projection": true,
+      "body_text_boxes": 37,
+      "body_norm_autofit": 0
+    }
+  }
+}
