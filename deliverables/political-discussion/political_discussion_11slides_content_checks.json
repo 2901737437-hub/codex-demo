@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "sha256": "0fc22306460f5cdfc9a506e4c4bf85887bc288fe25364fb0f7971b6c37349c8a",
+  "source_sha256": "2ed2aa6824b81fbd0d3ebf786a592907a5364864210ef828c68ef536d623785a",
+  "slide_count": 11,
+  "native_theme_layouts_and_source_slide_order_preserved": true,
+  "cover_identity_image_inserted": true,
+  "figure1A_inserted": true,
+  "figure1B_and_all_result_panels_preserved": true,
+  "all_image_aspect_ratios_preserved": true,
+  "both_original_tables_preserved": true,
+  "speaker_notes_clean_two_sections": true,
+  "both_tradeoffs_in_speech": true,
+  "chinese_characters_excluding_latin_digits_punctuation": 1779,
+  "planned_speech_seconds": 455,
+  "reserved_seconds": 25,
+  "actual_rehearsal": false,
+  "all_11_pages_rendered_and_visually_reviewed": true,
+  "paper_pdf_http_status": 200,
+  "paper_pdf_sha256_match": true,
+  "doi_check": "CONNECT blocked by environment proxy, HTTP 403; landing page not reached",
+  "native_font_families": [
+    "Source Han Serif CN",
+    "Source Han Sans CN Light",
+    "Times New Roman"
+  ],
+  "preview_font_inventory": [
+    "LiberationSerif",
+    "SourceHanSansCN-Light",
+    "SourceHanSerifCN-Bold"
+  ],
+  "preview_substitution": {
+    "Times New Roman": "Liberation Serif"
+  },
+  "external_preregistration_review": false
+}
